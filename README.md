@@ -1,2 +1,2 @@
 # NAYEEM
-File clone command 
+File cloning command

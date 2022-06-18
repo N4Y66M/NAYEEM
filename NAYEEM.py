@@ -10,4 +10,4 @@ if bit == '32bit':
     print("\n\x1b[1;92m Congratulations ! Your Device Support Tolls")
     print(" \033[1;31m   Connect Vpn if Run Error!\033[1;37m")
     from NAYEEM import Sub
-    Sub()
+    

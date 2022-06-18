@@ -11,5 +11,3 @@ if bit == '32bit':
     print(" \033[1;31m   Connect Vpn if Run Error!\033[1;37m")
     from NAYEEM import Sub
     Sub()
-elif bit == '32bit':
-    print("\x1b[1;91mOpps Sorry Brother Your Mobile Not Support This Tools")
